@@ -14,6 +14,8 @@ function App() {
         <Route exact path='/register' element={<StudentRegister/>} />
         <Route exact path='/addTeacher' element={<AddTeacher/>}/>
         <Route exact path='/addSubject' element={<AddSubject/>}/>
+        //Hassan Changes
+        <Route exact path='/addSubject' element={<AddSubject/>}/>
       </Routes>
     </Router>
   );
