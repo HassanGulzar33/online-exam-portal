@@ -62,6 +62,7 @@ class AddSubject extends React.Component {
         </div>
         
         <button type="submit"> Add Subject</button>
+        <button type="submit"> Add Demo Subject</button>
         <br/>
         <button> <Link className="linkbtn" to='/home'>back</Link></button>
       </form>
